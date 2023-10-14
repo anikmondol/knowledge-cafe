@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "cover": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
         "title": "Top 10 ES6 Features You Must Know",
         "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
-        "author": "Apu Mondal",
+        "author": "Hamza Sohail",
         "posted_date": "September 15, 2023",
         "reading_time": 5,
         "hashtags": [
@@ -17,9 +17,9 @@
         "cover": "https://i.ibb.co/6N2dgnZ/2.png",
         "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
         "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
-        "author": "Anik Ali",
-        "posted_date": "August 25, 2023",
-        "reading_time": 8,
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
         "hashtags": [
             "javascript",
             "coding",
@@ -31,8 +31,8 @@
         "cover": "https://i.ibb.co/RzGzcPg/3.png",
         "title": "Component lifecycle in React — Class component vs Functional component",
         "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
-        "author": "Joy Khan",
-        "posted_date": "July 10, 2022",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
         "reading_time": 10,
         "hashtags": [
             "mid_level",
@@ -41,12 +41,12 @@
     },
     {
         "id": 4,
-        "cover": "https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
         "title": "Free images and resources collection for website",
         "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
-        "author": "Ritu Roy",
+        "author": "Anmol Baloch",
         "posted_date": "June 5, 2023",
-        "reading_time": 6,
+        "reading_time": 9,
         "hashtags": [
             "development",
             "resources"
